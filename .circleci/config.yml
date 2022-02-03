@@ -58,7 +58,7 @@ tags_only: &tags_only
       only: /^.*/
 
 workflows:
-  version: 1
+  version: 2
   regression_model:
     jobs:
       # upload after git tags are created
