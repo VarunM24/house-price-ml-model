@@ -6,11 +6,11 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = 'tid-regression-model'
-DESCRIPTION = "Example regression model package from Train In Data."
-URL = "https://github.com/trainindata/testing-and-monitoring-ml-deployments"
-EMAIL = "christopher.samiullah@protonmail.com"
-AUTHOR = "ChristopherGS"
+NAME = 'house-price-regression-model'
+DESCRIPTION = "House price regression model package ."
+URL = "https://github.com/VarunM24/house-price-ml-model"
+EMAIL = "varun.maithani24@gmail.com"
+AUTHOR = "VarunM"
 REQUIRES_PYTHON = ">=3.6.0"
 
 
