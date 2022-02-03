@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# datafiles
+regression_model/dataset/*.csv
+train.csv
+test.csv
+raw.csv
+data_description.txt
+house-prices-advanced-regression-techniques.zip
+sample_submission.csv
+test_data_predictions.csv
+v2-plant-seedlings-dataset/
+v2-plant-seedlings-dataset.zip
+
+# all logs
+logs/
+
+# trained models (will be created in CI)
+*.h5
+*.pkl
+
+.DS_Store
+
+kaggle.json
